@@ -1,0 +1,24 @@
+{
+  "name": "ts-import-analyzer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/llCorvinSll/ts-import-analyzer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/llCorvinSll/ts-import-analyzer/issues"
+  },
+  "homepage": "https://github.com/llCorvinSll/ts-import-analyzer#readme",
+  "dependencies": {
+    "@types/node": "^7.0.12",
+    "glob": "^7.1.1",
+    "typescript": "^2.2.2"
+  }
+}
